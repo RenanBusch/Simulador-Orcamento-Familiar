@@ -19,4 +19,5 @@ Aplicativo web interativo desenvolvido em **HTML, CSS e JavaScript** para gerenc
 - `imagens/` → Ícones e imagens decorativas.
 
 ## 🌐 Deploy
-Disponível no GitHub Pages: [link-do-projeto](https://seuusuario.github.io/simulador-orcamento-familiar)
+
+Disponível no GitHub Pages: https://renanbusch.github.io/Simulador-Orcamento-Familiar/
